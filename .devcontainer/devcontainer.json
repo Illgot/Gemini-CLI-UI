@@ -1,0 +1,1 @@
+{"name":"Node.js 18 Dev Container","image":"mcr.microsoft.com/vscode/devcontainers/javascript-node:0-18","postCreateCommand":"npm install","settings":{"terminal.integrated.shell.linux":"/bin/bash"},"features":{"git":{"version":"latest"}}}
